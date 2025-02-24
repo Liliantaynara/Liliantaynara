@@ -1,23 +1,27 @@
-**Tentando ser uma programadora com TDAH**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+<img align="center" alt="" src="./src/header-gif.gif">
 
+#
+*Tentando ser uma programadora com TDAH*
 
-Oi, Me chamo Lilian, tenho 21 anos e sou natural de Recife(PE).Fiz o Ensino médio na ETEMAC, com o curso em técnico em Redes de Computadores. 
-
+Oi, Me chamo Lilian, tenho 21 anos e sou natural de Recife(PE), tenho TDAH  deste meus 16 anos.Fiz o Ensino médio na ETEMAC, com o curso em técnico em Redes de Computadores. 
 Atualmente estou cursando um curso profissinalizante do nível médio no Com.minio digital oferecido por Instituto Aliança no Recife Antigo.
+Compartilho meu conhecimento sobre o que sei/aprendo sobre tecnologia atravez do meu canal no YouTube "[LilithSolumar](https://www.youtube.com/@Soluma.1)", onde crio alguns projetos web e tento resolver problemas. 
+Támbem tenho meu instagram que por lá tenho maior comuniçao "[Lilliataynara](https://www.instagram.com/Lilliataynara/)".
 
- Compartilho meu conhecimento sobre o que sei/aprendo sobre tecnologia atravez do meu canal no YouTube "[LilithSolumar](https://www.youtube.com/@Soluma.1)", onde crio alguns projetos web e tento resolver problemas. Támbem tenho meu instagram que por lá tenho maior comuniçao "[Lilliataynara](https://www.instagram.com/Lilliataynara/)".
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-<p align="left">
-    <a href="https://www.youtube.com/@Solumar.1?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    
-</p>
+<h3 align="left">🔗Conexoes!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liliantaynaramariadasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/liliantaynara31052021/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lilliataynara/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](www.youtube.com/@Solumar.1)
 
 ---
 
@@ -68,14 +72,22 @@ Atualmente estou cursando um curso profissinalizante do nível médio no Com.min
 <br/>
 <br/>
 
-  ### 📊 Estatísticas
+#
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="250" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Liliantaynara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<div style="text-align: center;" align="center">
+  <h3>*📊 Estatísticas*</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liliantaynara&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-    />
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Liliantaynara&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
