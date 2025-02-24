@@ -10,7 +10,7 @@
 *Tentando ser uma programadora com TDAH*
 
 Oi, Me chamo Lilian, tenho 21 anos e sou natural de Recife(PE), Fiz o Ensino médio na ETEMAC, com o curso em técnico em Redes de Computadores. 
-Atualmente estou cursando na procura de conhecimentos e desafios para a minha carreira. Compartilho meu conhecimento sobre o que sei/aprendo sobre
+Atualmente estou na procura de conhecimentos e desafios para a minha carreira. Compartilho tudo que aprendo sobre
 tecnologia atravez do meu canal no YouTube "[LilithSolumar](https://www.youtube.com/@Soluma.1)", onde crio alguns projetos web e tento resolver problemas. 
 Támbem tenho meu instagram que por lá tenho maior comuniçao "[Lilliataynara](https://www.instagram.com/Lilliataynara/)".
 
