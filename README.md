@@ -10,9 +10,7 @@
 *Tentando ser uma programadora com TDAH*
 
 Oi, Me chamo Lilian, tenho 21 anos e sou natural de Recife(PE), Fiz o Ensino médio na ETEMAC, com o curso em técnico em Redes de Computadores. 
-Atualmente estou na procura de conhecimentos e desafios para a minha carreira. Compartilho tudo que aprendo sobre
-tecnologia atravez do meu canal no YouTube "[LilithSolumar](https://www.youtube.com/@Soluma.1)", onde crio alguns projetos web e tento resolver problemas. 
-Támbem tenho meu instagram que por lá tenho maior comuniçao "[Lilliataynara](https://www.instagram.com/Lilliataynara/)".
+Atualmente estou na procura de conhecimentos e desafios para a minha carreira.
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -21,7 +19,6 @@ Támbem tenho meu instagram que por lá tenho maior comuniçao "[Lilliataynara](
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liliantaynaramariadasilva@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/liliantaynara31052021/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lilliataynara/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](www.youtube.com/@Solumar.1)
 
 ---
 
